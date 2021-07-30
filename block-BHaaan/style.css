@@ -1,0 +1,25 @@
+.header{
+    background-color:violet;
+    text-align: center;
+    padding: 0.01mm;
+    color: blue;
+    font-size: 3mm;
+}
+article{
+    margin-left: 100mm;
+    margin-right: 100mm;
+}
+.read{
+    color: blue;
+    font-size: 3mm;
+}
+.date{
+    color: blue;
+    font-size: 4mm;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+    padding: 0.01mm;
+    font-size: 4mm;
+}
